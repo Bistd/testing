@@ -1,0 +1,21 @@
+{
+    "pasta_entrada": "dados_entrada",
+    "filial_ativa": 1,
+    "mes_ativo": "I-SET",
+    "percentual_regra_sugestao": 0.6,
+    "meses_media_sugestao": 6,
+    "meses_estoque": 12,
+    "backup_manter": 5,
+    "filiais": {
+        "1": {
+            "sigla": "MJZ",
+            "nome": "COMERCIAL DE ALIMENTOS MJZ",
+            "cnpj": "08.291.058/0001-43"
+        },
+        "2": {
+            "sigla": "SZ",
+            "nome": "SUPERMERCADO SZ",
+            "cnpj": "31.688.444/0001-95"
+        }
+    }
+}
